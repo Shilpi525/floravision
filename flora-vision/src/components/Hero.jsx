@@ -7,7 +7,7 @@ import {
 
 import plant1 from "../assets/plant1.png";
 import plant2 from "../assets/plant2.png";
-import plant3 from "../assets/hero.png";
+import plant3 from "../assets/Hero.png";
 
 function Hero() {
 
